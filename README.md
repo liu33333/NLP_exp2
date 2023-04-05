@@ -9,4 +9,4 @@
 
 [Trie Output Here!](https://github.com/liu33333/NLP_exp2/blob/master/output.txt)
 
-TODO: There's maybe something wrong in print method of Trie class which cause some mistakes in output-file. 
+TODO: There may be something wrong in print method of Trie class which cause some mistakes in output-file. 
